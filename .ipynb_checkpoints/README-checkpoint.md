@@ -26,5 +26,21 @@ The performance of model M1 will be evaluated through a confusion matrix of its 
 
 ### Model selection
 
+A short analysis of the aims of both M1 and M2 reveals that it is a supervised learning problem (given labelled datasets to train the algorithm). It is also clear both both models are trying to classify inputs in to their respective discrete categories, rather than predict some continuous value of 'cancerous' or 'cell type'. Therefore, the investigation will focus on classification ML paradigms.
+|
+|
+|
+V
+
+Binary classification
+
+|
+|
+|
+V
+
+CNN keras
+> https://www.ibm.com/topics/supervised-learning#:~:text=the%20next%20step-,What%20is%20supervised%20learning%3F,data%20or%20predict%20outcomes%20accurately.
+> https://datascience.stackexchange.com/questions/73093/what-does-from-logits-true-do-in-sparsecategoricalcrossentropy-loss-function
 ### Loss function
 
